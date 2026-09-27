@@ -4,10 +4,10 @@ The tutor reads this first every session and writes it last. This is the program
 
 ## Identity
 
-- Name:
-- Start date:
-- Timezone:
-- Typical daily window (hours):
+- Name: TRAIANO GIUSEPPE WELCOME
+- Start date: 29 September 2026
+- Timezone: Asia/Bangkok
+- Typical daily window (hours): 2 hours
 - Track: C-first (active)
 
 ## Calendar
