@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug current tests (week 01 day 01)",
+      "type": "lldb",
+      "request": "launch",
+      "program": "/tmp/bw-test_saturate",
+      "args": [],
+      "cwd": "${workspaceFolder}",
+      "preLaunchTask": "make test day"
+    }
+  ]
+}

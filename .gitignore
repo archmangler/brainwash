@@ -1,0 +1,20 @@
+# Build
+*.o
+*.out
+*.exe
+*.dSYM/
+a.out
+fizz
+main
+
+# Learner scratch (keep briefs, ignore work products)
+puzzles/work/
+projects/work/
+/tmp-bw-*
+
+# OS / editor
+.DS_Store
+*.swp
+*~
+.cache/
+compile_commands.json
